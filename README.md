@@ -2,7 +2,6 @@
 
 This project aims to build a regression model that can estimate a person’s medical insurance cost based on their demographic and lifestyle details.
 
----
 
 ## Problem Statement
 
