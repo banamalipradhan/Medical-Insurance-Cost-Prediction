@@ -100,3 +100,7 @@ These scores show that the model explains around **74%** of the variation in ins
 - Pickle (for model saving)
 
 
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
