@@ -8,14 +8,14 @@
 
 This project aims to build a regression model that can estimate a person’s medical insurance cost based on their demographic and lifestyle details.
 
----
+
 
 ## Problem Statement
 
 Insurance companies face challenges in estimating correct premium values. Overpricing leads to customer dissatisfaction, while underpricing causes financial loss.  
 This project focuses on predicting insurance charges using machine learning to support better decision-making and pricing strategies.
 
----
+
 
 ## Objective
 
@@ -24,7 +24,7 @@ This project focuses on predicting insurance charges using machine learning to s
 - Measure performance of the model using standard evaluation metrics  
 - Interpret insights to understand important cost-driving features  
 
----
+
 
 ## Dataset Overview
 
