@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="cover page/cover_page.jpg" width="800" alt="Insurance Cost Prediction">
+</p>
+
+
+
 # Medical Insurance Cost Prediction using Machine Learning
 
 This project aims to build a regression model that can estimate a person’s medical insurance cost based on their demographic and lifestyle details.
 
+---
 
 ## Problem Statement
 
@@ -21,8 +28,7 @@ This project focuses on predicting insurance charges using machine learning to s
 
 ## Dataset Overview
 
-The dataset contains **1,338 records** with **7 features** including:  
-:contentReference[oaicite:0]{index=0}
+The dataset contains **1,338 records** with **7 features** 
 
 - age – age of the individual  
 - sex – gender  
@@ -33,7 +39,6 @@ The dataset contains **1,338 records** with **7 features** including:
 - charges – target variable (insurance cost)
 
 All columns have **0 missing values**, ensuring a clean dataset.  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -41,37 +46,32 @@ All columns have **0 missing values**, ensuring a clean dataset.
 
 1. **Loading and Inspecting Dataset**  
    Dataset structure and data types reviewed  
-   :contentReference[oaicite:2]{index=2}  
 
 2. **Exploratory Data Analysis**  
    - Statistical summary for numerical features  
    - Distribution analysis (e.g., BMI distribution)  
-   :contentReference[oaicite:3]{index=3}  
 
 3. **Data Preprocessing**  
    - Encoded categorical features: sex, smoker, region  
-   :contentReference[oaicite:4]{index=4}  
 
 4. **Feature and Target Splitting**  
    Model trained on independent variables to predict insurance charges  
 
 5. **Model Training**  
    A regression model was trained using the processed dataset  
-   (shown in your notebook workflow)
+   (shown in the notebook workflow)
 
 6. **Model Evaluation**  
    Evaluation done on test set using:
    - R² Score  
    - Mean Absolute Error (MAE)  
    - Mean Squared Error (MSE)  
-   :contentReference[oaicite:5]{index=5}  
 
 ---
 
 ## Results & Performance
 
 Performance Metrics from the trained model:  
-:contentReference[oaicite:6]{index=6}
 
 - R² Score: **0.7447**  
 - MAE: **4267.21**  
