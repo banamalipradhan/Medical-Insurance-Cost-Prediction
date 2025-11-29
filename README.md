@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover page/cover_page.jpg" width="800" alt="Insurance Cost Prediction">
+  <img src="cover page/cover_page.png" width="800" alt="Insurance Cost Prediction">
 </p>
 
 
